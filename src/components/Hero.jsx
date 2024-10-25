@@ -28,7 +28,7 @@ export function Hero() {
         
       </h1>
       <p className="max-w-2xl mx-auto mt-6 text-lg tracking-tight text-slate-700">
-        Hello Pine verbindet Dich mit einer großen Auswahl an Plattformen <br/> - ganz einfach, in nur wenigen Klicks.
+        Hello Pine verbindet Dich mit einer großen Auswahl an Plattformen und führenden Marktplätzen <br/> - ganz einfach, in nur wenigen Klicks.
       </p>
       <div className="flex justify-center mt-10 gap-x-6">
         <Button href="https://app.hello-pine.com/register">Kostenlos Testen</Button>
