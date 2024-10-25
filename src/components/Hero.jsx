@@ -36,7 +36,7 @@ export function Hero() {
       </div>
       <div className="mt-36 lg:mt-44">
         <p className="text-base font-display text-slate-900">
-          Verbinde dich ganz einfach mit:
+          Verbinde dich einfach mit:
         </p>
         <ul
           role="list"
