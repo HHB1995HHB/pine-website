@@ -24,7 +24,7 @@ export function CallToAction() {
             Deine wertvolle Zeit
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-          Verkaufst Du schon auf Marktplätzen? Dann weißt Du sicherlich, dass es fast unmöglich ist, Produktdaten, Lagerbestände und Bestellungen im Blick zu behalten. Unser Tool automatisiert diese Prozesse innerhalb von Minuten und Du musst nicht mehr Tag für Tag verschiedene Systeme pflegen. 
+          Verkaufst Du schon über Marktplätze? Dann weißt Du sicherlich, dass es fast unmöglich ist, Produktdaten, Lagerbestände und Bestellungen im Blick zu behalten. Unser Tool automatisiert diese Prozesse innerhalb von Minuten und Du musst nicht mehr Tag für Tag verschiedene Systeme pflegen. 
           </p>
           <Button href="https://app.hello-pine.com/regiter" color="white" className="mt-10">
             Jetzt kostenlos testen
